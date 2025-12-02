@@ -4,9 +4,10 @@
 [![Vite](https://img.shields.io/badge/Vite-4.5.0-green?logo=vite\&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.3-skyblue?logo=tailwind-css\&logoColor=white)](https://tailwindcss.com/)
 
-🚀 **Live Demo:** [Click here to view Notes Studio](notes-studio-o3qrodv9r-amrutas-projects-2a7a7151.vercel.app)
+🚀 **Live Demo:** [Click here to view Notes Studio](https://notes-studio-o3qrodv9r-amrutas-projects-2a7a7151.vercel.app)
 
-![Notes Studio Screenshot](./public/assets/Screenshot.png)
+
+![Notes Studio Screenshot](./public/assets/screenshot.png)
 
 A clean and minimal Notes application built using **React + Tailwind CSS**.
 Users can **add, edit, and delete notes** with instant UI updates — all powered by React state.

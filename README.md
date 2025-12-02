@@ -6,7 +6,7 @@
 
 🚀 **Live Demo:** [Click here to view Notes Studio](notes-studio-o3qrodv9r-amrutas-projects-2a7a7151.vercel.app)
 
-![Notes Studio Screenshot](./public/assets/screenshot.png)
+![Notes Studio Screenshot](./public/assets/Screenshot.png)
 
 A clean and minimal Notes application built using **React + Tailwind CSS**.
 Users can **add, edit, and delete notes** with instant UI updates — all powered by React state.
